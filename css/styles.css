@@ -780,7 +780,7 @@ img {
 }
 .checkwindow:checked + .check-label::before {
   background-color: #2196f3;
-  background-image: url(/images/iconcheck.svg);
+  background-image: url(./images/iconcheck.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
